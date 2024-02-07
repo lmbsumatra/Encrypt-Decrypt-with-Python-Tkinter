@@ -12,12 +12,12 @@ A simple encryption and decryption tool built with Python and Tkinter GUI.
 
 ## Description
 
-This project is a basic encryption and decryption application developed in Python using the Tkinter library for the graphical user interface. It allows users to input a text string, choose an encryption key, and then either encrypt or decrypt the text.
+This project is a basic encryption and decryption application developed in Python using the Tkinter library for the graphical user interface. It allows users to input a text string, and then either encrypt or decrypt the text.
 
 ## Features
 
-- Encrypt text with a chosen key
-- Decrypt text with the same key
+- Encrypt text
+- Decrypt text
 - Simple and user-friendly Tkinter GUI
 
 ## Installation
@@ -38,10 +38,9 @@ This project is a basic encryption and decryption application developed in Pytho
    ```bash
    python Sumatra_LoveMissy.py
 2. Enter the text you want to encrypt or decrypt.
-3. Choose an encryption key.
-4. Click the "Encrypt" or "Decrypt" button as needed.
-5. The result will be displayed in the output area.
-6. Optional: Click `copy` to copy the encrpyt/decrypt text.
+3. Click the "Encrypt" or "Decrypt" button as needed.
+4. The result will be displayed in the output area.
+5. Optional: Click `copy` to copy the encrpyt/decrypt text.
 
 ## Screenshots
 ![image](https://github.com/lmbsumatra/Encrypt-Decrypt-with-Python-Tkinter/assets/122442812/2a93227f-a788-448c-9caa-0248cdf5e086)
